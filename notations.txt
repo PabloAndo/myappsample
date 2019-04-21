@@ -31,3 +31,7 @@ $ git config --global user.email 'pabloando99@gmail.com'
 ==== ANOTHER COMMANDS =====
 $ git add *.html		// Adds every html file to the stage area
 $ git add .				// Adds everything to the stage area
+$ git commit -m 'Comment on commit'
+
+===== GIT IGNORE =====
+$ touch .gitignore		// Creates the git ignore file
